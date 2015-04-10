@@ -1,0 +1,20 @@
+[ { '': 649 } ]
+[ { '': 42 } ]
+[ { '': 36 } ]
+[ { '': 506 } ]
+[ { '': 17 } ]
+[ { '': 147 } ]
+[ { '': 75 } ]
+[ { '': 4 } ]
+[ { '': 392 } ]
+[ { '': 399 } ]
+cwid:012.0012000001E3r8y IN:undefined Filsinger:42 Delta:NaN
+cwid:012.0012000001E3rCm IN:undefined Filsinger:398 Delta:NaN
+cwid:012.0012000001E84Ap IN:undefined Filsinger:4 Delta:NaN
+cwid:012.0012000001E83YJ IN:undefined Filsinger:177 Delta:NaN
+cwid:012.0012000001E83vf IN:undefined Filsinger:36 Delta:NaN
+cwid:012.0012000001E3qvX IN:undefined Filsinger:645 Delta:NaN
+cwid:012.0012000001E83VA IN:undefined Filsinger:0 Delta:NaN
+cwid:012.0012000001E3qjM IN:undefined Filsinger:514 Delta:NaN
+cwid:012.0012000001E83sJ IN:undefined Filsinger:17 Delta:NaN
+cwid:012.0012000001E83xy IN:undefined Filsinger:75 Delta:NaN
